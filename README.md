@@ -28,7 +28,7 @@ You can preprocess the dataset and get the LLMs embedding according to the follo
 
 In conclusion, the prerequisite files to run the code are as follows: `<cloth-sport/elec-phone/book-movie>.pkl`, `itm_emb_np_all.pkl`, `itm_emb_np_<A/B>_pca128.pkl`, `usr_profile_emb.pkl` and `id_map.json`.
 
-⭐️ To ease the reproducibility of our paper, we also upload all preprocessed files to this [link](https://ufile.io/succzmk4).
+⭐️ To ease the reproducibility of our paper, we also upload all preprocessed files to this [link](https://drive.google.com/file/d/1QWY4N3LCWHNkFLgIYVorFR-Ippkrjoee/view?usp=sharing).
 
 ## Run and test
 
