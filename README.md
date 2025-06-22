@@ -1,6 +1,6 @@
-# LLM4CDSR: Large Language Models Can Be a Good Bridge for Cross-domain Sequential Recommendation
+# Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation
 
-This is the implementation of the paper "LLM4CDSR: Large Language Models Can Be a Good Bridge for Cross-domain Sequential Recommendation".
+This is the implementation of the SIGIR'25 paper "Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation".
 
 ## Configure the environment
 
@@ -39,3 +39,16 @@ bash experiments/<amazon/elec/douban>/llm4cdsr.bash
 ```
 
 2. The log and results will be saved in the folder `log/`. The checkpoint will be saved in the folder `saved/`.
+
+## Citation
+
+If the code and the paper are useful for you, it is appreciable to cite our paper:
+
+```
+@article{liu2025llm4cdsr,
+  title={Bridge the Domains: Large Language Models Enhanced Cross-domain Sequential Recommendation},
+  author={Liu, Qidong and Zhao, Xiangyu and Wang, Yejing and Zhang, Zijian and Zhong, Howard and Chen, Chong and Li, Xiang and Huang, Wei and Tian, Feng},
+  journal={arXiv preprint arXiv:2504.18383},
+  year={2025}
+}
+```
